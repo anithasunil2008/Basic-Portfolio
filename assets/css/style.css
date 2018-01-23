@@ -94,6 +94,27 @@ h2{
 	
 }
 
+#myProject{
+	position: relative;
+    right: 420px;
+	display: inline;
+	float: left;
+	border: solid;
+	border-color: #cccccc;
+	width: 650px;
+	margin-left: 130px;
+	margin-top: 40px;
+	margin-bottom: 30px;
+	background-color: white;
+	color: #777777;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	height: 700px;
+	background-color: white;
+}
+
 #portfolio{
 	position: relative;
     right: 420px;
@@ -174,6 +195,22 @@ h2{
 	text-align: center;
 	margin-right: 170px;
 	margin-top: -505px;
+}
+
+#divProject{
+	position: relative;
+    top:-60px;
+	float: right;
+	border: solid;
+	border-color: #cccccc;
+	padding: 20px 10px 30px 10px;
+	width: 270px;
+	height: 160px;
+	background-color: white;
+	color:  #4aaaa5;
+	text-align: center;
+	margin-right: 170px;
+	margin-top: -805px;
 }
 
 #divPor{
